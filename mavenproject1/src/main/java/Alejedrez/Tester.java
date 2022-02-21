@@ -17,6 +17,7 @@ public class Tester {
     public static void main(String[] args) {
         // TODO code application logic here
          Tablero tablero= new Tablero();
+         System.out.println("");
         tablero.pintarTablero();
     }
     
